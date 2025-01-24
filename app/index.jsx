@@ -19,6 +19,11 @@ const App = () => {
               <Text style={styles.buttonText}>Explore Menu</Text>
             </Pressable>
           </Link>
+          <Link href="/contact" asChild>
+            <Pressable style={styles.button}>
+              <Text style={styles.buttonText}>Contact Us</Text>
+            </Pressable>
+          </Link>
         </View>
       </ImageBackground>
     </View>
@@ -68,6 +73,8 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.3,
     shadowRadius: 4,
+    marginBottom: 20,
+    width: 300
   },
   buttonText: {
     color: 'white',
