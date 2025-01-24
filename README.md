@@ -13,19 +13,16 @@ Welcome to the **Coffee Shop App**! This is a React Native application designed 
 - **Dark and Light Themes**: Supports system-wide dark and light modes.
 
 ---
-
 ## Screenshots
 
 ### Home Page
-![Home Page](/screenshots/home.png)
+![Home Page](./screenshots/home.jpg)
 
 ### Menu Page
-![Menu Page](/screenshots/menu.png)
+![Menu Page](./screenshots/menu.jpg)
 
 ### Contact Page
-![Contact Page](/screenshots/contact.png)
-
----
+![Contact Page](./screenshots/contact.jpg)
 
 ## Technologies Used
 
@@ -43,5 +40,5 @@ Follow these steps to set up and run the app locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/coffee-shop-app.git
+   git clone https://github.com/mbithi002/Coffee-Mobile-App.git
    cd coffee-shop-app
